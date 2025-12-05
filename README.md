@@ -21,3 +21,12 @@ O site é super acessível para todas as pessoas, pois é simples e fácil de ob
 1. Baixe o repositório (Clique no Botão “Code” > Download ZIP)
 2. Extraia a pasta
 3. Abra o arquivo index.html no navegador
+
+## Como Clonar
+No terminal do VS Code digite: git clone https://github.com/usuario/nome-do-repo.git No GitHub Desktop: No menu: File(Arquivo) > Clone a repositor (Clonar repositório) > Selecione a aba URL, no campo URL, cole o link do repositório: https://github.com/usuario/nome-do-repo.git Resumindo: Clonar é baixar o repositório completo usando Git.
+
+## O que aprendi
+Como o site é sobre gerador de dicas de estudo, aprendi mais sobre como gereniar meus estudo de uma melhor forma, e aprendi mais sobre JavaScript também, e por fim aprendi sobre como colocar o ``<footer>`` no final da tela, que era algo que eu ficava muitos minutos tentando fazer.
+
+## Autor
+Aline Rodrigues Silva - Turma de Tecnoologia em Informática para Internet (Vespertino) - Senac DF
